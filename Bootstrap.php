@@ -3,6 +3,10 @@
  * This class belongs to the Pub namespace
  * \addToGroup Pub
  */
+
+/**
+ * test
+ */
 namespace Pub;
 /**
  * Class file for Crabapple Bootstrap
